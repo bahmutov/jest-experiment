@@ -1,0 +1,16 @@
+{
+  "name": "jest-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "prettier": "^2.7.1"
+  }
+}
